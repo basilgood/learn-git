@@ -7,3 +7,4 @@ Other changes
 Another changes
 Test changes
 Best changes
+New test
