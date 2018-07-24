@@ -8,3 +8,4 @@ Another changes
 Test changes
 Best changes
 New test
+Test rebase tig
