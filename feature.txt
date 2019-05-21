@@ -1,6 +1,8 @@
 New feature added
 Second feature new
 Back to the future
+Extra beauty feature
+
 Beyond the future
 How cool is this
 Feature Agit vim
