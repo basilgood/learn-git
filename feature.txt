@@ -3,5 +3,5 @@ Second feature new
 Back to the future
 Beyond the future
 How cool is this
-All the feature test gitg
-Gitg it's so poor
+Feature Agit vim
+test rebase
