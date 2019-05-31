@@ -9,9 +9,5 @@ Test changes
 Best changes
 New test
 Test rebase tig
-Lazygit is not better.
+Lazygit is better.
 Test
-Again
-And conflicts
-Test rebase now.
-Test merge conflicts
