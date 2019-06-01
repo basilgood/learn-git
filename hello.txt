@@ -11,3 +11,5 @@ New test
 Test rebase tig
 Lazygit is better.
 Test
+Again
+And conflict
