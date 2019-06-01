@@ -12,4 +12,4 @@ Test rebase tig
 Lazygit is better.
 Test
 Again
-And conflict
+And conflicts
