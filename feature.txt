@@ -3,6 +3,7 @@ Second feature new
 Back to the future
 Extra beauty feature
 Fill an empty line
+Remove empty lines
 Beyond the future
 How cool is this
 Feature Agit vim
