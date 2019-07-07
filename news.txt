@@ -1,4 +1,4 @@
 testing rebase interactive.
-The best solution is rebase with tig
+The best solution is rebase with vim
 Rebasic
 gina it's not intuitive
