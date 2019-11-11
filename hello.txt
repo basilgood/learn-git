@@ -13,3 +13,4 @@ Lazygit is better.
 Test
 Again
 And conflicts
+Test a rebase
