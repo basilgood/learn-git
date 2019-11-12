@@ -15,3 +15,5 @@ Again
 And conflicts
 Test rebase now.
 Hello merge conflicts
+Test merge conflicts
+Test del branch
