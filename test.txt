@@ -1,0 +1,17 @@
+Hello World!
+Some changes
+Third line
+Other changes
+Extra feature
+Other changes
+Another changes
+Test changes
+Best changes
+New test
+Test rebase tig
+Lazygit is not better.
+Test
+Again
+And conflicts
+Hello lazygit
+Test del branch
