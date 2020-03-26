@@ -1,4 +1,4 @@
 testing rebase interactive.
 The best solution is rebase with vim
 Rebase with merginal
-gina it's not intuitive
+gina it's not intuitive at all
