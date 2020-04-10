@@ -2,3 +2,4 @@ learn rebasing better
 once again
 another one
 agit test
+fzgit test
