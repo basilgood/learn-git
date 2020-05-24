@@ -3,3 +3,4 @@ The best solution is rebase with vim
 Rebase with merginal
 gina it's not intuitive but it's beautiful
 and now the best is diffconflicts
+Resolve conflict vim mergetool vs meld
