@@ -1,5 +1,5 @@
 Hello World!
-First hulk conflict
+First hulk
 Third line
 Other changes
 Extra feature
@@ -8,7 +8,7 @@ Another changes
 Test changes
 Best changes
 New test
-Test rebase tig
+Second hulk
 Lazygit is not better.
 Test
 Again
