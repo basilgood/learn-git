@@ -1,5 +1,5 @@
 Hello World!
-Some changes
+First hulk conflict
 Third line
 Other changes
 Extra feature
