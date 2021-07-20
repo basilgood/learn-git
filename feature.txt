@@ -1,5 +1,6 @@
 New feature added
 Second feature new
+third feature new
 Back to the future
 Extra beauty feature
 Fill an empty line
