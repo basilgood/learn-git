@@ -1,5 +1,5 @@
 Hello World!
-First hulk
+Some changes
 Third line
 Other changes
 Extra feature
@@ -13,5 +13,6 @@ Lazygit is not better.
 Test
 Again
 And conflicts
-Test rebase now.
-Test merge conflicts
+Hello lazygit
+Test del branch
+New conflict
