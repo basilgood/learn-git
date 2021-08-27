@@ -9,3 +9,6 @@ Beyond the future
 How cool is this
 Feature Agit vim
 test rebase with imerge
+test diffview
+test view
+test diff
