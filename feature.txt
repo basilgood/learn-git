@@ -12,3 +12,4 @@ test rebase with imerge
 test diffview
 test view
 test diff
+test form remote
