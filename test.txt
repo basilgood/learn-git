@@ -9,7 +9,7 @@ Test changes
 Best changes
 New test
 Test rebase tig
-Lazygit is not better.
+Lazygit is way better than any tools.
 Test
 Again
 And conflicts
