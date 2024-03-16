@@ -1,6 +1,6 @@
 Hello World!
 Some changes
-Third line
+Third line is here
 Other changes
 Extra feature
 Other changes
