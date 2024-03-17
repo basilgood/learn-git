@@ -4,10 +4,10 @@ Third line is here
 Other changes
 Extra feature
 Other changes
-Another changes
+Another changes are welcome.
 Test changes
 Best changes
-New test
+This is not a new test.
 Test rebase tig
 Lazygit is way better than any tools.
 Test
