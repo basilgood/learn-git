@@ -4,10 +4,10 @@ Third line is here
 Other changes
 Extra feature
 Other changes
-Another changes
+That is another change.
 Test changes
 Best changes
-New test
+New test at the middle.
 Test rebase tig
 Lazygit is way better than any tools.
 Test
