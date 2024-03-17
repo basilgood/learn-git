@@ -1,0 +1,5 @@
+test4.
+test rebase interactive resolve conflicts.
+retest
+double conflicts.
+rebase again
