@@ -1,5 +1,5 @@
 Hello World!
-Some changes are required.
+The first demo here.
 Third line is here
 Other changes
 Extra feature
@@ -7,7 +7,7 @@ Other changes
 Another changes are welcome.
 Test changes
 Best changes
-This is not a new test.
+New test at the middle.
 Test rebase tig
 Lazygit is way better than any tools.
 Test
